@@ -1,0 +1,5 @@
+﻿  E02-314179937.cpp
+C:\Users\Alejandro\Desktop\Semestre 2022-1\Compu Grafica\Dibujo KICK\Dibujo KICK\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+C:\Users\Alejandro\Desktop\Semestre 2022-1\Compu Grafica\Dibujo KICK\Dibujo KICK\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+C:\Users\Alejandro\Desktop\Semestre 2022-1\Compu Grafica\Dibujo KICK\Dibujo KICK\E02-314179937.cpp(17,42): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Dibujo KICK.vcxproj -> C:\Users\Alejandro\Desktop\Semestre 2022-1\Compu Grafica\Dibujo KICK\Debug\Dibujo KICK.exe
